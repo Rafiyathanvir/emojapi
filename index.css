@@ -1,0 +1,16 @@
+#active{
+    font-size: 260%;
+    margin-top: 10%;
+    
+
+}
+
+#div{
+    font-size: large;
+}
+body{
+    backdrop-filter: blur(3px);
+
+    background-clip: solid 2px black;
+    background-image: url("https://appamatix.com/wp-content/uploads/2014/09/iphone-6-emoji--1200x1154.jpg");
+}
